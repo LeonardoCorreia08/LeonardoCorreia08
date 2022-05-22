@@ -1,3 +1,5 @@
+Ola , Iniciando na area de dados :)
+
 <div align="center">
   <a href="https://github.com/leonardocorreia08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
