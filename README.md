@@ -11,7 +11,7 @@ Ola , Iniciando na area de dados :)
   <img align="center" alt="PHP" height="30" width="85" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="R" height="30" width="85" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img align="center" alt="BD" height="30" width="85" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="MS" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img align="center" alt="MS" height="30" width="85" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="right" alt="Padwan" height="150" style="border-radius:50px;" 
   <img src="https://media2.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Caneca geek baby yoda" data-noaft="1" style="width: 480px; height: 270px; margin: 0px;">">
 </div>
