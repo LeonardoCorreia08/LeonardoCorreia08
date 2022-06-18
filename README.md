@@ -1,4 +1,4 @@
-Ola , Iniciando na area de dados :)
+Ola , Estudante na area de dados :)
 
 <div align="center">
   <a href="https://github.com/leonardocorreia08">
