@@ -18,7 +18,7 @@ Ola , Estudante na area de dados :)
 </div>
   
   ##
- 
+  ##
 <div> 
  
   <a href = "mailto:Leonardo__correiai@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
