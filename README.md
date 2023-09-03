@@ -1,10 +1,6 @@
 Ola , Estudante na area de dados... :)
 
-<div align="center">
-  <a href="https://github.com/leonardocorreia08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <img src="https://media2.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Caneca geek baby yoda" data-noaft="1" style="width: 480px; height: 270px; margin: 0px;">
 </div>
 
@@ -26,6 +22,10 @@ Ola , Estudante na area de dados... :)
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logo=Databricks&logoColor=white)
 
+### GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&langs_count=7&theme=dracula"/>
+
+### Meus Principais Projetos
   ##
   ##
   
