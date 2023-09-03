@@ -16,13 +16,17 @@ Ola , Estudante na area de dados... :)
   <img align="right" alt="Padwan" height="150" style="border-radius:50px;" 
   <img src="https://media2.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Caneca geek baby yoda" data-noaft="1" style="width: 480px; height: 270px; margin: 0px;">
 </div>
-  
+
+### Conecte-se comigo
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://web.dio.me/users/leonardo__correia/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:leonardo__correia@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/it-leonardo-correia/)
+
+
   ##
   ##
 <div> 
- 
-  <a href = "mailto:Leonardo__correiai@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/it-leonardo-correia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
   ![Snake animation](https://github.com/leonardocorreia08/leonardocorreia08/blob/output/github-contribution-grid-snake.svg)
  
