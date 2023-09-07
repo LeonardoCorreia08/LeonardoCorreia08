@@ -29,7 +29,7 @@ Ola , Estudante na area de dados... :)
   ##
   ##
 <div align="center">
-  <img src=![](https://komarev.com/ghpvc/?username=leonardocorreia08)
+  <img src="https://komarev.com/ghpvc/?username=leonardocorreia08"
 </div>
   
 <div> 
