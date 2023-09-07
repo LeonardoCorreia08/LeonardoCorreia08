@@ -28,11 +28,10 @@ Ola , Estudante na area de dados... :)
 ### Meus Principais Projetos
   ##
   ##
-![](https://komarev.com/ghpvc/?username=digitalinnovationone)
-
-  <div align="center">
-     <img src="https://komarev.com/ghpvc/?username=leonardocorreia08&color=CC6699&style=plastic"/>
+<div align="center">
+![](https://komarev.com/ghpvc/?username=leonardocorreia08)
 </div>
+  
 <div> 
 
  
