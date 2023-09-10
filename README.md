@@ -36,9 +36,10 @@ Ola , Estudante na area de dados... :)
   <img src="https://komarev.com/ghpvc/?username=leonardocorreia08&color=gray"
 </div>
   
-<div> 
-
  
+
+ <div>
+   
   ![Snake animation](https://github.com/leonardocorreia08/leonardocorreia08/blob/output/github-contribution-grid-snake.svg)
  
 </div>
