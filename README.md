@@ -29,7 +29,7 @@ Ola , Estudante na area de dados... :)
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/></a>
 </div>
 
-### Meus Principais Projetos
+### Meus Principais Projetos.
   ##
   ##
 <div align="center">
