@@ -23,7 +23,11 @@ Ola , Estudante na area de dados... :)
 ![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logo=Databricks&logoColor=white)
 
 ### GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/leonardocorreia08/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/></a>
+</div>
 
 ### Meus Principais Projetos
   ##
