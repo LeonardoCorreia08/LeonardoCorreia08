@@ -16,6 +16,18 @@ Frases Usadas:
 5 " Mais doze anos se passaram. A cada ano, os Bolseiros davam festas de aniversário muito animadas combinadas em Bolsão."
 
 
+
+
+https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/45325bfb-9dfd-4f4d-bf69-ce88d08a064e
+
+
+https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/9ada7417-2565-435a-b18b-79e3684d6df5
+
+
+
+
+
+
 # Resultados:
 
 ### Voz Referência 1 
