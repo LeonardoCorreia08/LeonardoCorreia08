@@ -40,6 +40,8 @@ https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/29c0b62c-
 "Bilbo era muito rico e muito peculiar, e tinha sido a maravilha do Condado por sessenta anos."
 
 
+# Resultados:
+
 ### Voz Referência 1 
 
 
@@ -56,6 +58,9 @@ https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/511327b8-
 
 
 2 "'Isso terá que ser pago,' disseram eles. 'Não é natural, e problemas virão disso!'"
+
+
+# Resultados:
 
 ### Voz Referência 1 
 
@@ -75,6 +80,8 @@ https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/fe0e97a5-
 "Mas ele não tinha amigos próximos, até que alguns de seus primos mais jovens começaram a crescer."
 
 
+# Resultados:
+
 ### Voz Referência 1 
 
 
@@ -92,6 +99,8 @@ https://github.com/LeonardoCorreia08/LeonardoCorreia08/assets/84795789/35b4b994-
 
 "Quando Bilbo tinha noventa e nove anos, ele adotou Frodo como seu herdeiro e o trouxe para viver em Bolsão; e as esperanças dos Sackville-Bagginses foram finalmente destruídas."
 
+
+# Resultados:
 ### Voz Referência 1 
 
 
