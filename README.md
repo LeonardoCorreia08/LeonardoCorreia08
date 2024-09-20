@@ -49,7 +49,7 @@ Ola , Estudante na area de dados...  :)
 </table>
 
 ---
-Vamos Disseminar os Conhecimentos e Transbordar Tudo que Aprendemos !
+"Vamos disseminar o conhecimento e transbordar tudo o que aprendemos, cultivando o aprendizado contínuo para uma vida de crescimento e transformação."
 </div>
 
 
