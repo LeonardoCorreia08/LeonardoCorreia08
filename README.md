@@ -22,12 +22,7 @@ Ola , Estudante na area de dados...  :)
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logo=Databricks&logoColor=white)
 
-### GitHub Stats
-<div align="center">
-  <a href="https://github.com/leonardocorreia08/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=CC6699&icon_color=CC6699"/></a>
-</div>
+
 
 ### Meus Principais Projetos.
   ##
