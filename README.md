@@ -47,9 +47,9 @@ Ola , Estudante na area de dados...  :)
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=carlos-cgs&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
     <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-cgs&layout=compact&theme=radical&custom_title=Languages"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&custom_title=Languages"/></td>
   </tr>
 </table>
 
