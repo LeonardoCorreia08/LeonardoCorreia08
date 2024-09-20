@@ -62,7 +62,7 @@
 </table>
 
 ---
-"Vamos disseminar o conhecimento e transbordar tudo o que aprendemos, cultivando o aprendizado contínuo para uma vida de crescimento e transformação."
+"O lifetime learning é a chave para um crescimento contínuo, onde o conhecimento se renova e expande, transformando cada etapa da vida."
 </div>
 
 
