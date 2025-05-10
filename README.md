@@ -3,6 +3,7 @@
 # Ola , Estudante na area de dados...  :) ![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f4361726c6f732d4347532f4361726c6f732d4347533f7374796c653d666c6174](https://github.com/user-attachments/assets/047c0f41-a70a-4582-b7e1-73278c3cceaa)
 ### Bem-vindo ao meu GitHub! 
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 ---
 
   <img src="https://media2.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Caneca geek baby yoda" data-noaft="1" style="width: 480px; height: 270px; margin: 0px;">
