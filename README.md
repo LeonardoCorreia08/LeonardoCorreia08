@@ -27,6 +27,14 @@
 ![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logo=Databricks&logoColor=white)
 
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,azure,bootstrap,c,css,docker,gcp,github,html,instagram,linux,,linkedin,,md,opencv,php,,postman,py,pytorch,r,sklearn,tensorflow,windows,vscode,vercel,vite" />
+</a>
+  <br />
+
+  </div>
+
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logoColor=30A3DC)](https://web.dio.me/users/leonardo__correia/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:leonardo__correia@hotmail.com)
