@@ -90,10 +90,11 @@
   ![Snake animation](https://github.com/leonardocorreia08/leonardocorreia08/blob/output/github-contribution-grid-snake.svg)
  
  </div>
-
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LeonardoCorreia08/LeonardoCorreia08/tree/main/.github/workflows/Snake-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LeonardoCorreia08/LeonardoCorreia08/tree/main/.github/workflows/Snake-contribution-graph.svg">
   <img alt="Snake contribution graph" src="https://github.com/LeonardoCorreia08/LeonardoCorreia08/tree/main/.github/workflows/Snake-contribution-graph.svg">
+</picture>
 
  <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
