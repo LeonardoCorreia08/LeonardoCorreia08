@@ -54,10 +54,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/it-leonardo-correia/)
 
 
-
-
-
-
 ### Meus Principais Projetos.
   ##
   ##
@@ -93,7 +89,11 @@
    
   ![Snake animation](https://github.com/leonardocorreia08/leonardocorreia08/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+ </div>
+
+ <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/Snake-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/Snake-contribution-graph.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/Snake-contribution-graph.svg">
 
  <!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
