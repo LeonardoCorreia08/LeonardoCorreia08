@@ -57,9 +57,9 @@
 
 <br>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true" />
+<img height="190" src="https://github-readme-stats.azurewebsites.net/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true" />
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
+<img height="190" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
 
 ---
 
