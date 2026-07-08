@@ -57,8 +57,7 @@
 
 <br>
 
-<img height="190" src="https://github-readme-stats.azurewebsites.net/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true" />
-&nbsp;
+<img height="200" src="https://github-metrics.lecoq.io/leonardocorreia08?template=classic&base=header,activity,community,repositories,metadata&theme=radical&show=false" />
 <img height="190" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
 
 ---
