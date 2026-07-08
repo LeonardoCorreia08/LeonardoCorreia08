@@ -57,8 +57,12 @@
 
 <br>
 
-<img height="200" src="https://github-metrics.lecoq.io/leonardocorreia08?template=classic&base=header,activity,community,repositories,metadata&theme=radical&show=false" />
-<img height="190" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
+![Total Commits](https://img.shields.io/badge/Commits-468-blue?style=for-the-badge&logo=github)
+![Total Stars](https://img.shields.io/badge/Stars-47-yellow?style=for-the-badge&logo=starship)
+![Total PRs](https://img.shields.io/badge/PRs-2-green?style=for-the-badge&logo=git)
+![Followers](https://img.shields.io/badge/Followers-2-orange?style=for-the-badge&logo=github)
+
+<br>
 
 ---
 
