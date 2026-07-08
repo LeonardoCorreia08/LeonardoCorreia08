@@ -66,16 +66,16 @@
 
 ---
 ## 📊 GitHub Estatísticas
+
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leonardocorreia08&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-<table>
-  <tr>
-    <td align="center"><img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true"/></td>
-    <td align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens"/></td>
-  </tr>
-</table>
+<br>
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true" />
+&nbsp;
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
 
 </div>
 
