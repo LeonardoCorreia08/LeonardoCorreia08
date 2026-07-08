@@ -65,13 +65,20 @@
   
 
 ---
+<div align="center">
+
 ## 📊 GitHub Estatísticas
 
-<!-- Troféu usando um espelho ativo -->
-[![trophy](https://gh-trophy.cdnsoft.net/?username=leonardocorreia08&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 6 colunas, 1 linha (todos na mesma linha) -->
+[![trophy](https://gh-trophy.cdnsoft.net/?username=leonardocorreia08&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-"O lifetime learning é a chave para um crescimento contínuo, onde o conhecimento se renova e expande, transformando cada etapa da vida."
+<br>
+
+<!-- Stats e Linguagens lado a lado -->
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true" />
+&nbsp;
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens" />
+
 </div>
 
 
