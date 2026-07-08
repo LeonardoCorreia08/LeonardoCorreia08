@@ -59,14 +59,12 @@
 
 
 ### Meus Principais Projetos.
-  ##
-  ##
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardocorreia08&color=gray"
+  <img src="https://komarev.com/ghpvc/?username=leonardocorreia08&color=gray" alt="Contador de visualizações" />
 </div>
-  
 
 ---
+
 <div align="center">
 
 ## 📊 GitHub Estatísticas
