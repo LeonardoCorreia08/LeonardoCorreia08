@@ -66,19 +66,18 @@
 
 ---
 ## 📊 GitHub Estatísticas
+<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=leonardocorreia08&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&width=200%&section=footer"/>
-
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical#gh-dark-mode-only"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&custom_title=Languages"/></td>
+<table>
+  <tr>
+    <td align="center"><img height="200" src="https://github-readme-stats.vercel.app/api?username=leonardocorreia08&show_icons=true&theme=radical&hide_border=true"/></td>
+    <td align="center"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocorreia08&layout=compact&theme=radical&hide_border=true&custom_title=Linguagens"/></td>
   </tr>
 </table>
+
+</div>
 
 ---
 "O lifetime learning é a chave para um crescimento contínuo, onde o conhecimento se renova e expande, transformando cada etapa da vida."
