@@ -25,14 +25,16 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
-![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logo=microsoft-azure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logo=Databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-000?style=for-the-badge&logo=Databricks&logoColor=white)
 
-<div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,azure,bootstrap,c,css,docker,gcp,github,html,instagram,linux,,linkedin,,md,opencv,php,,postman,py,pytorch,r,sklearn,tensorflow,windows,vscode,vercel,vite" />
+<br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,anaconda,arduino,azure,bootstrap,c,css,docker,gcp,github,html,instagram,linux,linkedin,md,opencv,php,postman,py,pytorch,r,sklearn,tensorflow,windows,vscode,vercel,vite" />
 </a>
-  <br />
+
+</div>
 
 ---
 <br>
