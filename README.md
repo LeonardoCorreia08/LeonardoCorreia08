@@ -77,7 +77,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://gitcity.natrajx.in/LeonardoCorreia08">
+  <a href="https://gitcity.natrajx.in/LeonardoCorreia08/simulation">
     <img src="https://gitcity.natrajx.in/api/svg?u=LeonardoCorreia08" width="100%" alt="Minha GitHub City" />
   </a>
 </p>
