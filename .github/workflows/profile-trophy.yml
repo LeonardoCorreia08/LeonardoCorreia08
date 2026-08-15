@@ -1,0 +1,25 @@
+name: Generate Profile Trophies
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Diário
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Trophies
+        run: |
+          mkdir -p dist
+          curl -s "https://github-profile-trophy.onrender.com/?username=${{ github.repository_owner }}&theme=onedark&no-frame=true&row=1&column=6" -o dist/trophies.svg
+      - name: Push to output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
