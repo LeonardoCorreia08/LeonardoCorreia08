@@ -39,6 +39,8 @@
   <img alt="pacman" src="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
 ---
 
 ### Conecte-se comigo
@@ -73,5 +75,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/bomberman-contribution-graph.svg">
   <img alt="Bomberman" src="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/bomberman-contribution-graph.svg">
 </picture>
+
+
 
 </div>
