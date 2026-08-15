@@ -53,9 +53,9 @@
 
 ## 📊 GitHub Estatísticas
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+[<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=leonardocorreia08&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Profile Trophy" />
-</a>
+</a>](https://github-profile-trophy-server.vercel.app/?username=leonardocorreia08&theme=onedark&no-frame=true&row=1&column=6)
 
 <br>
 
