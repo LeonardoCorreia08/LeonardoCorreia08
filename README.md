@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Estatísticas
 
-![Trophies](https://raw.githubusercontent.com/LeonardoCorreia08/LeonardoCorreia08/output/trophies.svg)
+[![trophy](https://gh-trophy.cdnsoft.net/?username=leonardocorreia08&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
