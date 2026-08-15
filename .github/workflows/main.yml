@@ -2,8 +2,8 @@ name: Arcade Games
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch: # Permite execução manual
 
 jobs:
   build:
@@ -19,10 +19,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper'
-          # A Action gera os arquivos na pasta dist automaticamente
 
       - name: Verify generated files
-        run: ls -R dist/ # Isso vai listar os arquivos no log, ajudando você a ver se eles foram criados
+        run: ls -lh dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
