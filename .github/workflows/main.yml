@@ -1,32 +1,66 @@
 name: Arcade Games
 
+
+
 on:
+
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
-  workflow_dispatch: # Permite execução manual
+
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+
 
 jobs:
+
   build:
+
     runs-on: ubuntu-latest
+
     permissions:
+
       contents: write
+
     steps:
+
       - name: Checkout repository
+
         uses: actions/checkout@v4
 
+
+
       - name: Generate All Arcade Games
+
         uses: abozanona/pacman-contribution-graph@main
+
         with:
+
           github_user_name: ${{ github.repository_owner }}
+
           games: 'pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper'
 
+          # A Action gera os arquivos na pasta dist automaticamente
+
+
+
       - name: Verify generated files
-        run: ls -lh dist/
+
+        run: ls -R dist/ # Isso vai listar os arquivos no log, ajudando você a ver se eles foram criados
+
+
 
       - name: Push to output branch
+
         uses: crazy-max/ghaction-github-pages@v4
+
         with:
+
           target_branch: output
+
           build_dir: dist
+
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+
