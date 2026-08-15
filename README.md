@@ -53,7 +53,7 @@
 
 ## 📊 GitHub Estatísticas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoCorreia08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://raw.githubusercontent.com/LeonardoCorreia08/LeonardoCorreia08/output/trophies.svg)
 
 <br>
 
