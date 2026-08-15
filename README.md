@@ -76,6 +76,10 @@
   <img alt="Bomberman" src="https://raw.githubusercontent.com/leonardocorreia08/leonardocorreia08/output/bomberman-contribution-graph.svg">
 </picture>
 
-[![Minha GitHub City](https://gitcity.natrajx.in/api/svg?u=LeonardoCorreia08)](https://gitcity.natrajx.in/LeonardoCorreia08)
+<p align="center">
+  <a href="https://gitcity.natrajx.in/LeonardoCorreia08">
+    <img src="https://gitcity.natrajx.in/api/svg?u=LeonardoCorreia08" width="100%" alt="Minha GitHub City" />
+  </a>
+</p>
 
 </div>
