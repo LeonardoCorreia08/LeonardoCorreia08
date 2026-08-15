@@ -1,66 +1,43 @@
 name: Arcade Games
 
-
-
 on:
-
   schedule:
-
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
-
     permissions:
-
       contents: write
-
     steps:
-
       - name: Checkout repository
-
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
 
-
-      - name: Generate All Arcade Games
-
+      - name: Generate Arcade Games
         uses: abozanona/pacman-contribution-graph@main
-
         with:
-
           github_user_name: ${{ github.repository_owner }}
-
           games: 'pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper'
+        env:
+          # Permissão vital para a action conseguir ler as suas contribuições
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          # A Action gera os arquivos na pasta dist automaticamente
-
-
-
-      - name: Verify generated files
-
-        run: ls -R dist/ # Isso vai listar os arquivos no log, ajudando você a ver se eles foram criados
-
-
+      - name: Organize generated files
+        run: |
+          # Move as imagens geradas na raiz para a pasta 'dist', que será enviada ao branch 'output'
+          mv *.svg dist/ 2>/dev/null || echo "Arquivos já estão na pasta correta"
+          ls -lh dist/
 
       - name: Push to output branch
-
         uses: crazy-max/ghaction-github-pages@v4
-
         with:
-
           target_branch: output
-
           build_dir: dist
-
+          keep_history: false
+          commit_message: "chore: update arcade contribution graphs"
         env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
