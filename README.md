@@ -5,6 +5,29 @@
 
 <img src="https://media2.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif" alt="Caneca geek baby yoda" style="width: 480px; height: 270px;">
 
+
+Inteligência Artificial Aplicada | Ciência de Dados | Engenharia de Software
+---
+</div>
+  
+Desenvolvimento e pesquisa em sistemas inteligentes, arquiteturas de IA, visão computacional, aprendizado de máquina e aplicações tecnológicas.
+
+Áreas de atuação
+- Inteligência Artificial e sistemas cognitivos.
+- Visão computacional e processamento de imagens.
+- Machine Learning e Deep Learning.
+- Ciência de Dados e Big Data.
+- Sistemas embarcados e IoT.
+- Pesquisa e desenvolvimento tecnológico.
+  
+Projetos em destaque
+1. Observador — Visão Computacional.
+2. NeuroCore — Arquitetura Cognitiva.
+3. SentinelaGlobal — Monitoramento Inteligente.
+4. PIBIC — IA aplicada à análise geológica.
+5. HBR — Inteligência Artificial e Aeroespacial.
+6. Project Ambiental — Machine Learning.
+
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
